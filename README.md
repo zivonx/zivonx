@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- 动态打字效果 -->
+<!-- Dynamic Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6F9EFF&center=true&vCenter=true&random=false&width=435&lines=Vibe+Coding...;Building+something+cool.;AI+%26+System+Architecture)](https://git.io/typing-svg)
 
-<!-- Spotify 实时挂件 -->
+<!-- Spotify Now Playing -->
 [![Spotify](https://spotify-now-playing-nu.vercel.app/api/spotify)](https://open.spotify.com/user/)
 
 </div>
@@ -12,19 +12,19 @@
 
 ### 👋 About Me
 
-> 全栈开发者，专注于 React/Next.js 生态与 Node.js 后端架构
+> Full-stack developer focused on React/Next.js ecosystem and Node.js backend architecture
 
-- 🔭 正在构建：**健康营养追踪 App**（Flutter + NestJS）
-- 🌱 深入学习：Web3、智能合约、区块链应用架构
-- 💡 技术栈：TypeScript / React / Next.js / Node.js / NestJS / Flutter
-- 🚀 关注领域：DApps、DeFi 协议、链上数据分析
+- 🔭 Currently building: **Health & Nutrition Tracking App** (Flutter + NestJS)
+- 🌱 Deep diving into: Web3, Smart Contracts, Blockchain application architecture
+- 💡 Tech Stack: TypeScript / React / Next.js / Node.js / NestJS / Flutter
+- 🚀 Interested in: DApps, DeFi protocols, On-chain data analysis
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <!-- 统一色调的技能徽章 -->
+  <!-- Unified color scheme badges -->
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -40,10 +40,10 @@
 
 <div align="center">
 
-<!-- GitHub 统计卡片 - 透明暗色主题 -->
+<!-- GitHub Stats Card - Transparent dark theme -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zivonx&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&count_private=true)](https://github.com/zivonx)
 
-<!-- 常用语言统计 -->
+<!-- Most Used Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zivonx&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true)](https://github.com/zivonx)
 
 </div>
@@ -52,9 +52,9 @@
 
 ### 🎯 Now Building
 
-| 项目 | 进度 | 描述 |
-|------|------|------|
-| 🥗 健康营养追踪 App | `████████░░ 80%` | Flutter + NestJS + AI 营养分析引擎 |
+| Project | Progress | Description |
+|---------|----------|-------------|
+| 🥗 Health & Nutrition Tracking App | `████████░░ 80%` | Flutter + NestJS + AI nutrition analysis engine |
 
 ---
 
@@ -68,7 +68,7 @@ Claude Code (MCP) + Cursor + GitHub Copilot
 Flutter App → NestJS API → Docker Deploy
 ```
 
-> 💡 使用 AI Agent 辅助开发，人机协同构建高效工作流
+> 💡 Using AI Agents to assist development, human-AI collaboration for efficient workflow
 
 ---
 
@@ -84,7 +84,7 @@ Flutter App → NestJS API → Docker Deploy
 
 <div align="center">
 
-<!-- 访客计数器 - 复古 Vibe -->
+<!-- Visitor Counter - Retro Vibe -->
 ![Visitors](https://komarev.com/ghpvc/?username=zivonx&color=6F9EFF&style=flat-square)
 
 </div>
