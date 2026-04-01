@@ -1,4 +1,4 @@
-Hi there, I'm Zivon! 👋
+<h1 align="center">Hi there, I'm Zivon! 👋</h1>
 
 ### ✨ About Me
 
