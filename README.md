@@ -1,4 +1,6 @@
-### 👋 About Me
+Hi there, I'm Zivon! 👋
+
+### ✨ About Me
 
 > Full-stack developer focused on React/Next.js ecosystem and Node.js backend architecture
 
