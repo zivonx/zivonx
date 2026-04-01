@@ -24,20 +24,6 @@
 
 ---
 
-### 🤖 Vibe Coding Workflow
-
-```
-Claude Code (MCP) + Cursor + GitHub Copilot
-        ↓
-    AI Pair Programming
-        ↓
-Flutter App → NestJS API → Docker Deploy
-```
-
-> 💡 Using AI Agents to assist development, human-AI collaboration for efficient workflow
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
